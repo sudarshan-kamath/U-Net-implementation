@@ -1,4 +1,4 @@
-#Implementation of the U-Net segmentation network using PyTorch
+# Implementation of the U-Net segmentation network using PyTorch
 
 The main goal is to create a U-Net network from scratch by understanding the paper. 
 
